@@ -1,0 +1,9 @@
+VCD info: dumpfile automatic_door.vcd opened for output.
+
+Time=0   | Person=0 | Door_Open=0
+Time=20  | Person=0 | Door_Open=0
+Time=30  | Person=1 | Door_Open=1
+Time=40  | Person=1 | Door_Open=1
+Time=50  | Person=0 | Door_Open=0
+Time=60  | Person=1 | Door_Open=1
+Time=70  | Person=0 | Door_Open=0
